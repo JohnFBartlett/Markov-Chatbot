@@ -1,0 +1,19 @@
+The cat likes fish. I do not like fish.
+The cat hates fish. I do not hate fish.
+The cat likes dog. I do not like dog.
+The cat hates dog. I do not hate dog.
+The cat likes food. I do not like food.
+The cat hates food. I do not hate food.
+The dog likes fish. I do not like fish.
+The dog hates fish. I do not hate fish.
+The dog likes dog. I do not like dog.
+The dog hates dog. I do not hate dog.
+The dog likes food. I do not like food.
+The dog hates food. I do not hate food.
+The pony likes fish. I do not like fish.
+The pony hates fish. I do not hate fish.
+The pony likes fish. I do not like pony.
+The pony hates fish. I do not hate pony.
+The pony likes fish. I do not like food.
+The pony hates fish. I do not hate food.
+
