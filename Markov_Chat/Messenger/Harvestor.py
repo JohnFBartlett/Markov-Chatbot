@@ -18,4 +18,4 @@ class People_Harvestor:
 
 if __name__ == '__main__':
     # from Messenger import harvest_from_sender
-    People_Harvestor.harvest_from_sender('Caroline Strauss', 'Facebook-messages.txt')
+    People_Harvestor.harvest_from_sender('USER', 'Facebook-messages.txt')
